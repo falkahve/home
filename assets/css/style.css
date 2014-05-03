@@ -22,7 +22,7 @@ a {
 /* General styles
 -------------------------------------------------*/
 
-.vegas-background { opacity: .6; }
+.vegas-background { opacity: 1.0; }
 .vegas-overlay { opacity: .6; }
 
 #preloader {
