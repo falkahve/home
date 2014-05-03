@@ -11,7 +11,7 @@
 		
 		// Image background
 		$.vegas({
-            src:'http://dl.dropboxusercontent.com/s/w76kg12dyo0s7wg/sulthana.png'
+            src:'assets/images/sulthana.png'
         });
 
         $.vegas('overlay', {
